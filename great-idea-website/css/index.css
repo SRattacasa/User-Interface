@@ -64,3 +64,111 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+* { 
+	box-sizing: border-box;
+	
+}
+
+.navigate { 
+	max-width: 876px;
+	margin: 0 auto;
+	list-style-type: none;
+	text-align: center;
+}
+
+.navigate li { 
+	display: inline-block;
+	margin: 3%;
+}
+
+.navigate img {
+	display: inline-block;
+	margin-left: 3px;
+}
+
+header { 
+	
+	max-width: 876px;
+	margin: 40px auto;
+	text-align: justify;
+}
+
+header .tophead1 { 
+	width: 40%;
+	display: inline-block;
+	margin-left: 10%;
+	text-align: center;
+	
+}
+
+header .tophead2 { 
+	width: 40%;
+	display: inline-block;
+}
+
+
+header p { 
+	border: solid black 1px;
+	font-size: 20px;
+	width: 150px;
+	padding: 5px;
+}
+
+h1 { 
+	font-size: 60px;
+	margin-right: 70%;
+}
+
+header img { 
+
+}
+
+.botsect { 
+	border-top: solid 2px black;
+	max-width: 876px;
+	margin: 0 auto;
+}
+
+.s1 { 
+	margin: 20px 0 20px 0;
+	
+	
+}
+
+/* .s1 p { 
+	display: inline-block;
+	
+} */
+
+.s1 div { 
+	display: inline-block;
+	width: 49%;
+	
+}
+
+.middle-img { 
+	margin: 10px auto;
+}
+
+.s2 { 
+	border-bottom: solid 1px black;
+}
+
+.s2 div { 
+	display: inline-block;
+	width: 33%;
+	margin: 20px 0;
+}
+
+.bottom {
+	
+	max-width: 876px;
+	margin: 20px auto;
+}
+
+footer {
+	text-align: center;
+	margin-bottom: 40px;
+}
+
